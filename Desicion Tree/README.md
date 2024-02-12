@@ -11,8 +11,16 @@ In the first step, implement the decision tree for the discrete data presented i
 ### DT2.py
 This Python script implements a decision tree classifier for predicting customer satisfaction based on various attributes. It utilizes information gain and Gini impurity as splitting criteria. The script reads data from a CSV file, discretizes numerical attributes, and builds decision trees using both entropy and Gini impurity. Accuracy is evaluated using a randomly selected subset of the dataset.
 
+#### output : 
+![image](https://github.com/TheSalimi/Artificial-Inteligence/assets/108394058/3da20e90-11df-4a43-bb9e-73626bf1f69f)
+![image](https://github.com/TheSalimi/Artificial-Inteligence/assets/108394058/dfa19342-b544-4567-b4e8-65ba3d7b116f)
+
+
 ## Gini index VS Entropy
 The Gini index and entropy are both metrics used in decision tree algorithms to measure the impurity of a dataset and guide the tree-building process. Here are the main differences between the two:
+
+#### output : 
+![image](https://github.com/TheSalimi/Artificial-Inteligence/assets/108394058/3af0e360-7856-4a10-9a46-69c1111e1edd)
 
 ### Formula
 Gini Index: It measures the probability of a random sample being misclassified. It ranges from 0 to 1, where 0 indicates perfect purity (all samples belong to one class) and 1 indicates maximum impurity (equal distribution among all classes).
