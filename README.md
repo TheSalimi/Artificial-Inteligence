@@ -1,2 +1,3 @@
 # Artificial-Inteligence
-Fall 2023
+
+[Decision Tree, Gini index VS Entropy](DT/)
