@@ -21,14 +21,17 @@ Entropy: It measures the uncertainty or randomness in a dataset. It ranges from 
 
 ### Calculation
 Gini Index: It calculates impurity by summing the squared probabilities of each class.
+
 Entropy: It calculates impurity using the information-theoretic concept of entropy, which considers the distribution of classes in the dataset.
 
 ### Sensitivity to Class Imbalance:
 Gini Index: It tends to be less sensitive to class imbalance compared to entropy.
+
 Entropy: It can be sensitive to class imbalance because it focuses on the distribution of classes.
 
 ### Decision Boundary:
 Gini Index: It tends to produce binary splits in the decision tree.
+
 Entropy: It may create more balanced splits because it considers the distribution of classes.
 
 ###### Which one is better depends on the specific dataset and the problem at hand:
