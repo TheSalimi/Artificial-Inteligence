@@ -1,3 +1,3 @@
 # Artificial-Inteligence
 
-[Link to Decision Tree folder](Decision%20Tree/)
+[Link to Decision Tree folder](Desicion%20Tree/)
