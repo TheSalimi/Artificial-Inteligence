@@ -4,3 +4,6 @@
 
 [Link to Genetic Project folder](Genetic%20project/)
 
+[Link to Nueral network Project folder](NN%20project/)
+
+
