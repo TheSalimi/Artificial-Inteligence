@@ -1,3 +1,3 @@
 # Artificial-Inteligence
 
-[Decision Tree, Gini index VS Entropy](DT/)
+[Link to Decision Tree folder](Decision%20Tree/)
