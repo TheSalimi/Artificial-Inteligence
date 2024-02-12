@@ -2,5 +2,5 @@
 
 [Link to Decision Tree folder](Desicion%20Tree/)
 
-[Link to Decision Tree folder](Genetic%20Project/)
+[Link to Genetic Project folder](Genetic%20project/)
 
